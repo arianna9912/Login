@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+     background-color: black;
+
+}
+/*#form-wrapper {*/
+/*  opacity: 0;*/
+/*  transform: translateY(-50px);*/
+/*  transition: all 0.3s ease-in-out;*/
+/*}*/
+
+/*#form-wrapper.visible {*/
+/*  opacity: 1;*/
+/*  transform: translateY(0);*/
+/*}*/
